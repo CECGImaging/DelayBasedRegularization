@@ -2,7 +2,7 @@
 
 <https://github.com/CECGImaging/DelayBasedRegularization>
 
-This is an implementation of the delay-based regularization presented at the Computing in Cardiology conference 2019.
+This is an implementation of the delay-based regularization presented at the Computing in Cardiology conference 2019, [see paper](https://github.com/CECGImaging/DelayBasedRegularization/blob/master/CinC2019_DelayBasedRegularization.pdf).
 
 ## Running the examples ##
 
